@@ -24,3 +24,26 @@ python main.py
  * 👥 **تابعني على فيسبوك:** My Facebook Profile
 
 https://www.facebook.com/profile.php?id=61552389480398
+
+
+# **Ping Pong GDS 🏓**
+A classic Ping Pong game developed with Python. It offers a fun and fast-paced experience with various customization options, designed for both solo players and local multiplayer.
+## **Features**
+ * **Game Modes:** Single-player (vs AI) and Local Multiplayer (2 players).
+ * **Customization:** Adjustable difficulty levels, round timer settings, and visual themes.
+ * **Clean Code:** Lightweight and easy to run Python project.
+## **How to Run**
+ 1. Ensure you have Python installed.
+ 2. Install the necessary dependencies:
+
+bash
+   pip install pygame
+
+Run the main game script:
+bash
+   python main.py
+
+## **Links**
+ * 🎮 **Play my games on Itch.io:** ShadowGDS on Itch.io
+ * 👥 **Connect with me on Facebook:** My Facebook Profile
+
