@@ -1,2 +1,24 @@
-# Ping-pong-gds
-Classic Ping Pong game developed in Python. Challenge the Al or play against a friend with fully adjustable game settings and fun themes!
+# Ping Pong GDS 🏓
+
+لعبة "بينج بونج" مطورة بلغة بايثون، توفر تجربة ممتعة وسريعة مع خيارات تخصيص متعددة. تم تصميمها لتناسب اللاعبين الذين يبحثون عن تحدي سواء ضد الكمبيوتر أو ضد صديق!
+
+## المميزات (Features)
+- **أنماط اللعب:** دعم اللعب الفردي (ضد الكمبيوتر) أو اللعب الجماعي (شخصان على نفس الجهاز).
+- **التخصيص:** يمكنك التحكم في صعوبة اللعبة، وتحديد زمن الجولة، وتغيير مظهر اللعبة (Themes).
+- **سهولة التشغيل:** كود بسيط ونظيف مطور بلغة بايثون.
+
+## كيفية التشغيل (How to Run)
+1. تأكد من تثبيت Python على جهازك.
+2. قم بتثبيت المكتبات المطلوبة (في حال وجودها):
+```bash
+   pip install pygame
+
+
+3. قم بتشغيل ملف اللعبة الرئيسي:
+
+bash
+python main.py
+
+## **روابط هامة (Important Links)**
+ * 🎮 **جرب ألعابي على منصة Itch.io:** ShadowGDS on Itch.io
+ * 👥 **تابعني على فيسبوك:** My Facebook Profile
