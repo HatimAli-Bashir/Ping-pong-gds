@@ -20,5 +20,7 @@ bash
 python main.py
 
 ## **روابط هامة (Important Links)**
- * 🎮 **جرب ألعابي على منصة Itch.io:** ShadowGDS on Itch.io
+ * 🎮 **جرب ألعابي على منصة Itch.io:**  https://shadowgds.itch.io/?hl=ar-001 Itch.io
  * 👥 **تابعني على فيسبوك:** My Facebook Profile
+
+https://www.facebook.com/profile.php?id=61552389480398
