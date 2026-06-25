@@ -44,6 +44,7 @@ bash
    python main.py
 
 ## **Links**
- * 🎮 **Play my games on Itch.io:** ShadowGDS on Itch.io
- * 👥 **Connect with me on Facebook:** My Facebook Profile
+ * 🎮 **Play my games on Itch.io:** https://shadowgds.itch.io/
+ * 👥 **Connect with me on Facebook:** My Facebook Profile:
 
+https://www.facebook.com/profile.php?id=61552389480398
